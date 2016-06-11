@@ -1,29 +1,21 @@
-feedforward
-===========
+cat-high-perf-teams
+===================
 
-Peer-based Feedforward Protocol.
+Exerpt from the book:
 
-Exerpt from the article:
-
-> In this document, we will discuss a protocol designed to
-> help people come to their own insights, while also receiving
-> helpful information from their own team. This has the effect
-> of not only amplifying each person’s own learning, but
-> creating a bonding experience with teammates that is
-> meaningful and connected to their actual work experience.
+> none yet
 
 Acquiring
 -----------
-This project is being published automatically using [Travis-CI](https://travis-ci.org/couragelabs/feedforward).
+This project is being published automatically using [Travis-CI](https://travis-ci.org/couragelabs/cat-high-perf-teams).
 
 Download in any of these formats:
 
-  * [PDF](http://s3.amazonaws.com/cl-feedforward/feedforward.pdf)
-  * [HTML](http://s3.amazonaws.com/cl-feedforward/feedforward.html)
+  * [PDF](http://s3.amazonaws.com/cl-cat-high-perf-teams/cat-high-perf-teams.pdf)
+  * [HTML](http://s3.amazonaws.com/cl-cat-high-perf-teams/cat-high-perf-teams.html)
 
-You can purchase a nice bound copy of the latest print-ready version here:
+You will soon be able to purchase a nice bound copy of the latest print-ready version...
 
- * [Peer-Based Feedforward Protocol](http://www.lulu.com/shop/stephen-starkey/peer-based-feedforward-protocol/paperback/product-22732787.html)
 
 Editing
 -------
