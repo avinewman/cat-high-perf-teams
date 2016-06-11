@@ -7,6 +7,7 @@ Exerpt from the book:
 
 Acquiring
 -----------
+![Build Status](https://travis-ci.org/couragelabs/cat-high-perf-teams.svg?branch=master)
 This project is being published automatically using [Travis-CI](https://travis-ci.org/couragelabs/cat-high-perf-teams).
 
 Download here:
