@@ -15,7 +15,7 @@ latex:
 
 lint:
 	chktex -W # Print version information.
-	chktex -q -n 1 -n 6 -n 12 -n 13 -n 38 $(LATEX_NAME).tex 2>/dev/null | tee lint.out
+	chktex -q -n 1 -n 6 -n 12 -n 13 -n 15 -n 38 $(LATEX_NAME).tex 2>/dev/null | tee lint.out
 
 html:
 	mkdir html
