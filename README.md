@@ -11,7 +11,7 @@ This project is being published automatically using [Travis-CI](https://travis-c
 
 Download here:
 
-  * [PDF](http://cl-cat-high-perf-teams.s3.amazonaws.com/cat-high-perf-teams.pdf)
+  * [PDF](http://cat-high-perf-teams.s3.amazonaws.com/cat-high-perf-teams.pdf)
 
 You will soon be able to purchase a nice bound copy of the latest print-ready version...
 
