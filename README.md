@@ -9,10 +9,9 @@ Acquiring
 -----------
 This project is being published automatically using [Travis-CI](https://travis-ci.org/couragelabs/cat-high-perf-teams).
 
-Download in any of these formats:
+Download here:
 
-  * [PDF](http://s3.amazonaws.com/cl-cat-high-perf-teams/cat-high-perf-teams.pdf)
-  * [HTML](http://s3.amazonaws.com/cl-cat-high-perf-teams/cat-high-perf-teams.html)
+  * [PDF](http://cl-cat-high-perf-teams.s3.amazonaws.com/cat-high-perf-teams.pdf)
 
 You will soon be able to purchase a nice bound copy of the latest print-ready version...
 

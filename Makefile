@@ -10,7 +10,7 @@ build: setup
 	cd src && $(MAKE) 
 
 publish: distribute
-	aws --profile couragelabs s3 sync out s3://cl-$(LATEX_NAME)
+	aws --profile couragelabs s3 sync out s3://$(LATEX_NAME)
 
 .PHONY: clean
 
