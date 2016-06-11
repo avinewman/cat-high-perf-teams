@@ -1,0 +1,12 @@
+.DS_Store
+out
+src/*.pdf
+src/*.log
+src/*.sty
+src/*.synctex.gz
+src/*.aux
+src/*.toc
+src/*.ps
+src/*.dvi
+src/html
+lint.out

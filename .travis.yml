@@ -1,0 +1,17 @@
+sudo: required
+dist: trusty
+install:
+- sudo apt-get -y install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra tex4ht chktex
+script: 
+- make
+deploy:
+  provider: s3
+  access_key_id: AKIAILUSIQQRDIX2UQGQ
+  secret_access_key:
+    secure: bbz+0H0M+PyzxnK1Nstiz1h5RpOQpNvVEpdaAeFX39qVaRrtsBqlEu17IUql3BThbNaiMD9GDY36dhVRw79EYKSvvb+fOlqyzZGOzQmLh7PH/fZEAI/79+OgA+2Uznb+nWglou3n6FdD9+PZcqXFQMxRgUmfbJOw9pWOVA6p/7g=
+  bucket: cl-cat-high-perf-teams
+  local-dir: out
+  acl: public_read
+  skip_cleanup: true
+  on:
+    repo: couragelabs/cat-high-perf-teams
