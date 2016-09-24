@@ -1,7 +1,7 @@
 .DS_Store
 out
 src/*.pdf
-src/*.log
+*.log
 src/*.sty
 src/*.synctex.gz
 src/*.aux
