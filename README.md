@@ -32,7 +32,7 @@ Building
    * For Mac: http://www.tug.org/mactex
    * For Debian/Ubuntu:
 
-        apt-get -y install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra tex4ht chktex
+            apt-get -y install texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra tex4ht chktex
 
  * Run:
 
