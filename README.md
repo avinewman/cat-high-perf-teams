@@ -3,7 +3,10 @@ cat-high-perf-teams
 
 Exerpt from the book:
 
-> none yet
+> You will learn five major principles that can help
+> you begin to work with your mind, understand how collective efforts work, and ultimately become
+> a more effective team member. As you grow in skill, your teammates will start to notice. They will 
+> suddenly want to be around you more, as you are able to call forth the best in them. 
 
 Acquiring
 -----------
